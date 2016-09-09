@@ -1,5 +1,5 @@
-#WeADMIN SAM是什么?
-WeADMIN SAM（SAM  Server and Application Management）专注对局域网、广域网和互联网上的应用系统、服务器和网络设备的故障监测和性能管理。可以对应用 系统、服务器、虚拟机、中间件、数据库、电子邮件、WEB系统、DNS系统、FTP系统、电子商务系统、存储、机房环境等进行全面深入的监测管理。方便系统管理人员 随时了解整个IT系统的运行状况，而且能从应用层面对企业IT系统的关键应用进行实时监测。
+#What is WeADMIN SAM?
+WeADMIN SAM（**SAM** Server and Application Management）focus in LAN, WAN and Internet application system, server and network equipment fault monitoring and performance management.To application system, server, virtual machine, email, WEB, middleware, database system, DNS, FTP, e-commerce systems, such as storage, computer room environment to conduct a comprehensive monitoring and control.Convenient system management Understand the operation condition of the IT system at any time, and benefit from the application layer in the face of the enterprise IT system the key to application of the real-time monitoring.
 <br>
 
 ![1](https://raw.githubusercontent.com/ylitoss/itoss/master/public/img/1.png "1")
